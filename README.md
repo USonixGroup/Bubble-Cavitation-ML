@@ -21,13 +21,19 @@ If you use this repository in your research, please cite the following:
 ### BibTeX
 
 ```bibtex
-@misc{gatica2024cavitation,
-  title={Classifying Acoustic Cavitation with Machine Learning Trained on Multiple Physical Models},
-  author={Gatica, Trinidad and van 't Wout, Elwin and Haqshenas, Reza},
-  year={2024},
-  note={Preprint available on arXiv:2408.16142},
-  doi={10.48550/arXiv.2408.16142},
-  institution={{Pontificia Universidad Católica de Chile, Santiago, Chile and University College London, London, United Kingdom}}
+@article{10.1063/5.0255579,
+    author = {Gatica, Trinidad and van 't Wout, Elwin and Haqshenas, Reza},
+    title = {Classifying acoustic cavitation with machine learning trained on multiple physical models},
+    journal = {Physics of Fluids},
+    volume = {37},
+    number = {3},
+    pages = {037116},
+    year = {2025},
+    month = {03},
+    issn = {1070-6631},
+    doi = {10.1063/5.0255579},
+    url = {https://doi.org/10.1063/5.0255579},
+    eprint = {https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0255579/20426144/037116\_1\_5.0255579.pdf},
 }
 ````
 
